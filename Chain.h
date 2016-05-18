@@ -5,7 +5,7 @@
  As the name suggests, the chain class hold series of data and do some
  basic manipulations on it such as getting the size and reading a chain
  from the user input assuming that the user knows exactly how to input a
- Chain. Finally, the class also specifies the Big Five in C++11 and
+ Chain. Finally, the class also features the Big Five in C++11 and
  implements them in the implementation file.
  @Date: 02/10/2016.
 */
